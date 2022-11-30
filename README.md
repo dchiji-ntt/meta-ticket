@@ -1,4 +1,8 @@
-# Meta-ticket
+# Meta-ticket: Finding optimal subnetworks for few-shot learning within randomly initialized neural networks
+
+Official repository for Meta-ticket paper. ([ArXiv](https://arxiv.org/abs/2205.15619), [OpenReview](https://openreview.net/forum?id=Cr4_3ptitj))
+
+Presented at NeurIPS'22 (Poster): https://neurips.cc/virtual/2022/poster/53373
 
 ## Requirements
 
